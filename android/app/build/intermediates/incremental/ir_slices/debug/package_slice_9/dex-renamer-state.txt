@@ -1,0 +1,4 @@
+#Sun Nov 04 22:10:48 BRT 2018
+base.0=/home/jonathan/Projetos/PDM - Android/app1/android/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

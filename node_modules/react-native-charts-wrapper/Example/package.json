@@ -1,0 +1,30 @@
+{
+  "name": "Example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch",
+    "postinstall": "sed -i '' 's/#import <RCTAnimation\\/RCTValueAnimatedNode.h>/#import \"RCTValueAnimatedNode.h\"/' ./node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h"
+  },
+  "dependencies": {
+    "immutability-helper": "2.4.0",
+    "lodash": "4.17.5",
+    "moment": "^2.22.2",
+    "react": "^16.4.1",
+    "react-native": "^0.56.0",
+    "react-native-charts-wrapper": "file:../",
+    "react-navigation": "^1.0.0-beta.19"
+  },
+  "devDependencies": {
+    "babel-jest": "21.0.2",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.1.0",
+    "react-test-renderer": "15.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
