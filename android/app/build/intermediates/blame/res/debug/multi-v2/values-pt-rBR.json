@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jonathan/Projetos/PDM - Android/app1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/jonathan/Projetos/PDM - Android/PDM_UNI2018/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/jonathan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/3216e8f1d7fb03b88da8a1181a6b476d/res/values-pt-rBR/values-pt-rBR.xml",

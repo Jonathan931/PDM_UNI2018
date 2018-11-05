@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/jonathan/Projetos/PDM - Android/app1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
+            "outputFile": "/home/jonathan/Projetos/PDM - Android/PDM_UNI2018/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml",
             "map": [
                 {
                     "source": "/home/jonathan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bf0b83194e14464e272ea0583bcbeacf/res/values-ka/values-ka.xml",
