@@ -1,13 +1,4 @@
-#Sun Nov 04 22:10:49 BRT 2018
-path.3=classes.dex
-path.2=classes.dex
-path.1=classes.dex
+#Sun Dec 02 17:18:19 BRT 2018
+base.0=/home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
-renamed.3=classes4.dex
-renamed.2=classes3.dex
-renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/home/jonathan/Projetos/PDM - Android/app1/android/app/build/intermediates/transforms/dexMerger/debug/15
-base.2=/home/jonathan/Projetos/PDM - Android/app1/android/app/build/intermediates/transforms/dexMerger/debug/12
-base.1=/home/jonathan/Projetos/PDM - Android/app1/android/app/build/intermediates/transforms/dexMerger/debug/14
-base.0=/home/jonathan/Projetos/PDM - Android/app1/android/app/build/intermediates/transforms/dexMerger/debug/13

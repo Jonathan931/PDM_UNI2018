@@ -11,7 +11,7 @@ import { AppRegistry, Dimensions } from 'react-native';
 import { DrawerNavigator } from 'react-navigation';
 import {name as appName} from './app.json';
 
-import SideMenu from './src/SlideMenu';
+import SideMenu from './src/components/Menu/SlideMenu';
 import stackNav from './src/stacknav';
 
 const drawernav = DrawerNavigator({

@@ -8,9 +8,9 @@ import {
 
 import { StackNavigator } from  'react-navigation';
 import IOSIcon from "react-native-vector-icons/Ionicons";
-import MainScreen from "./MainScreen";
-import DetailScreen from "./DetailScreen";
-import CadastroScreen from "./Cadastro";
+import MainScreen from "./pages/MainScreen";
+import DetailScreen from "./pages/lancamento/DetailScreen";
+import CadastroScreen from "./pages/lancamento/Cadastro";
 import App from "./index";
 
 const stackNav = StackNavigator({
@@ -34,7 +34,7 @@ const stackNav = StackNavigator({
                     <IOSIcon name="ios-menu" size={30} />
                   </TouchableOpacity>
       ),
-      headerStyle: { paddingRight: 10, paddingLeft: 15 }
+      headerStyle: { }
     })
   },
   Cadastro:{
