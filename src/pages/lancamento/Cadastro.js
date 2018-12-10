@@ -10,7 +10,10 @@ class CadastroScreen extends Component {
   
   state= {
     checkedReceita: true,
-    checkedDespesa: false
+    checkedDespesa: false,
+    descricao: '',
+    data: '',
+    tipo: '',
   }
 
   render () {

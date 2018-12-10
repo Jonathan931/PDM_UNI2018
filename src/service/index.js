@@ -12,14 +12,21 @@ const api = axios.create({
   },
 });
 
-
 api.setAuth = async ({access_token, nome}) => {
-  // attach authorization data to sebsequent requests
+
   await AsyncStorage.setItem("@Money:token", access_token);
   await AsyncStorage.setItem("@Money:user", nome);
   api.defaults.headers.common['Authorization'] = `Bearer ${access_token}`;
-  //console.log(this.props)ToastAndroid;
- 
+  // ToastAndroid.show(access_token, ToastAndroid.SHORT  );
 };
+
+
+// api.interceptors.request.use(
+//   // update config before request
+//   config => config,
+//   // handle request error
+//   error => ToastAndroid.show(error, ToastAndroid.SHORT  )
+// );
+
 
 export default api;

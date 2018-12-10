@@ -4,6 +4,7 @@ ADDED from /home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/src/main/Android
 INJECTED from /home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-i18n] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-vector-icons] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-charts-wrapper] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-charts-wrapper/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.57.4] /home/jonathan/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/41f9d7be30cee9652d969b3dc82306db/AndroidManifest.xml:2:1-15:12
@@ -99,6 +100,8 @@ uses-sdk
 INJECTED from /home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/jonathan/Projetos/Aula/PDM_UNI2018/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-i18n] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-i18n] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-i18n/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-charts-wrapper] /home/jonathan/Projetos/Aula/PDM_UNI2018/node_modules/react-native-charts-wrapper/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41

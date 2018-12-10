@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 //import { BarChart } from 'react-native-charts-wrapper';
 import { BarChartScreen } from '../components/graficos/BarChart';
-
+import translate from './../components/translate/index';
 import {
   Text,
   View,
@@ -11,9 +11,17 @@ import {
 
 class MainScreen extends Component {
   render() {
+    const hello = translate('welcome') || '';
     return (
-      <BarChartScreen />
-//       // <View style={styles.container}>
+      <View>      
+        <View>
+          <Text>{hello}</Text>
+        </View>
+        <View>
+        
+        <BarChartScreen />
+</View></View>
+      //       // <View style={styles.container}>
 
 //         {/* <Text>Seja Bem vindo, Jonathan!</Text> */}
 //          {/* <Button onPress={() => this.props.navigation.navigate("Detail")} title="Detail Page" /> */}

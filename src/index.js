@@ -17,10 +17,9 @@ export default class App extends Component{
     header: null,
   };
 
-  
   state = {
-    email: 'jonathan@gmail.com',
-    senha: '123456',
+    email: 'admin@gmail.com',
+    senha: 'admin',
     error: ''
   };
 
